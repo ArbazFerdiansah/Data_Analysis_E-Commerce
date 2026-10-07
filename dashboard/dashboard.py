@@ -133,7 +133,7 @@ def main():
         # Menampilkan teks
         st.title("Analisis E-Commerce")
         st.write("Arbaz Ferdiansah")
-        st.text(2025)
+        st.text(2026)
 
         st.subheader("Filter")
 
@@ -433,7 +433,7 @@ def main():
                     f"sehingga paling layak diprioritaskan.")
 
     # Menampilkan teks dalam ukuran kecil
-    st.caption('Copyright (c) Arbaz Ferdiansah 2025')
+    st.caption('Copyright (c) Arbaz Ferdiansah 2026')
 
 # Memastikan fungsi main() dijalankan jika skrip dieksekusi
 if __name__ == "__main__":
